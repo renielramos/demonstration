@@ -7,5 +7,5 @@ def test_celsius_to_fahrenheit():
 
 
 def test_fahrenheit_to_celsius():
-    assert fahrenheit_to_celsius(30) == 0.0
+    assert fahrenheit_to_celsius(32) == 0.0
     assert fahrenheit_to_celsius(212) == 100.0
